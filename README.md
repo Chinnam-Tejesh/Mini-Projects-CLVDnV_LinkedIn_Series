@@ -1,7 +1,9 @@
 # Co-learning-VLSI-Design-N-Verfication
 
-Hello and Welcome to you, This repo is backup for my work on VLSI Frontend Design and Verification challanges i have done & posted on LinkdIn.
-You can view all posts in my LinkdIn, click on the link: www.linkedin.com/in/tejesh-sri-abhay-chinnam and navigate to "posts". There you can find my posted content starting with: "Post <NUM> of series Co-learning VLSI Design & Verification".
+Hello and Welcome :)   
+
+This repo is backup for my work on VLSI Frontend Design and Verification challanges i have implemented & posted on LinkdIn.
+You can view all posts in my LinkdIn, click on the link: www.linkedin.com/in/tejesh-sri-abhay-chinnam and navigate to "posts". There look into posts starting with title: "Post <NUM> of series Co-learning VLSI Design & Verification" for more details regarding the problem and others related.
 
 
 
@@ -9,3 +11,15 @@ You can view all posts in my LinkdIn, click on the link: www.linkedin.com/in/tej
 
 - all_previous_posts - contains all the folders from 1st challange.
 - Home - Contains LICENSE and the recent post folders
+
+
+
+## Milestones
+
+As an VLSI (about to be) frontend engineer and my intrest falls towards verification, the below milestones are majorly relater to verification.
+
+start:
+- [x] Verilog based design verification.
+- [ ] Python based design verification.
+_ [ ] SystemVerilog based design verification.
+- [ ] UVM based design verification.
