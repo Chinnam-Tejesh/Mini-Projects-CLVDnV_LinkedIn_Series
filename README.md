@@ -17,10 +17,10 @@ You can view all posts in my LinkdIn, click on the link: www.linkedin.com/in/tej
 
 ## Milestones
 
-As an VLSI (about to be) frontend engineer and my intrest falls towards verification, the below milestones are majorly relater to verification.
+As an (about to be) VLSI frontend engineer and my intrest falls towards verification, the below milestones I am planning to achive as early as possible.
 
 start:
-- [x] Verilog based design verification.
-- [ ] Python based design verification.
+- [x] Verilog based design verification. <-- posts are in this method.
+- [ ] Python based design verification. <-- learning.
 - [ ] SystemVerilog based design verification.
 - [ ] UVM based design verification.
