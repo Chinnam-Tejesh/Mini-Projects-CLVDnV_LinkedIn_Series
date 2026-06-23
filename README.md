@@ -9,8 +9,8 @@ You can view all posts in my LinkdIn, click on the link: www.linkedin.com/in/tej
 ## Structure of Repo
 
 - Co-learning-VLSI-Design-N-Verfication
-   - Home - Contains LICENSE and the recent / working posts folders.
-   - all_previous_posts - contains all the folders from 1st challange.
+   - |- Home - Contains LICENSE and the recent / working posts folders.
+   - |- all_previous_posts - contains all the folders from 1st challange.
 
 
 ## Post and Project
