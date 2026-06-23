@@ -7,7 +7,7 @@ This repo is backup for my work on VLSI Frontend Design and Verification challan
 You can view all posts in my LinkdIn, click on the link: www.linkedin.com/in/tejesh-sri-abhay-chinnam and navigate to "posts", for more details regarding the problem view the respective post.  
 
 
-## Post and Project
+## List of Projects
 
 Both design and verification are done for the bellow projects (without an exception).  
 
