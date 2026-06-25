@@ -14,6 +14,7 @@ Both design and verification are done for the bellow projects (without an except
 
 | Post | Project name |
 |---|---|
+| Post 11 | Mod N Counter |
 | Post 10 | Up-Down Counter |
 | Post 9 | D Flip Flip (async and sync) |
 | Post 8 | min & max finder from 4 inputs |
